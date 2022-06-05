@@ -4,6 +4,6 @@
 2) Find the best pair amongst them.
 3) Choose and calculate indicators to buy and sell.
 4) Alert buy / sell.
-5) Learn and improve the model, and test it. (LSTM)
+5) Learn and improve the model, and test it. (LSTM, In branch lstm-model)
 
 For more inforamtion, read the Jupyter notebook "groups-trading", or contact me.
